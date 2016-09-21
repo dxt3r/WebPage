@@ -9,10 +9,16 @@
 نحدد مدة العمل عليها وكم تستغرق صفحة العمل هي على موقع Github
 
 https://github.com/aosus
-
+    
 صفحة النقاش 
+     
 https://aosus.org/t/topic/827
-مجموعة المحادثة 
-https://chat.aosus.org 
-مجموعة المحادثة على تطبيق التيليجرام 
-https://telegram.me/aosus 
+      
+مجموعة المحادثة
+     
+https://chat.aosus.org
+      
+مجموعة المحادثة على تطبيق التيليجرام
+        
+https://telegram.me/aosus
+     
