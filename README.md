@@ -8,6 +8,11 @@
 محتويات صفحة الهبوط
 نحدد مدة العمل عليها وكم تستغرق صفحة العمل هي على موقع Github
 
+
+## لمعاينة الصفحة
+https://aosus.github.io/aboutus/
+
+
 https://github.com/aosus
     
 صفحة النقاش 
@@ -21,4 +26,5 @@ https://chat.aosus.org
 مجموعة المحادثة على تطبيق التيليجرام
         
 https://telegram.me/aosus
-     
+  
+  
